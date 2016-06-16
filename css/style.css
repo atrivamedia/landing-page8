@@ -336,7 +336,7 @@ footer.bg-primary {
 	}
 
 	div.portfolio-box-caption-content div.project-name p {
-	font-size: 6px !important;
+	font-size: 10px !important; /* original 6px */
 	}
 
 	footer p {
